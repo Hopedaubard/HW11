@@ -1,0 +1,15 @@
+C:\Repository\HW11\Ex36\bin\Debug\net6.0\Ex36.exe
+C:\Repository\HW11\Ex36\bin\Debug\net6.0\Ex36.deps.json
+C:\Repository\HW11\Ex36\bin\Debug\net6.0\Ex36.runtimeconfig.json
+C:\Repository\HW11\Ex36\bin\Debug\net6.0\Ex36.dll
+C:\Repository\HW11\Ex36\bin\Debug\net6.0\Ex36.pdb
+C:\Repository\HW11\Ex36\obj\Debug\net6.0\Ex36.csproj.AssemblyReference.cache
+C:\Repository\HW11\Ex36\obj\Debug\net6.0\Ex36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\HW11\Ex36\obj\Debug\net6.0\Ex36.AssemblyInfoInputs.cache
+C:\Repository\HW11\Ex36\obj\Debug\net6.0\Ex36.AssemblyInfo.cs
+C:\Repository\HW11\Ex36\obj\Debug\net6.0\Ex36.csproj.CoreCompileInputs.cache
+C:\Repository\HW11\Ex36\obj\Debug\net6.0\Ex36.dll
+C:\Repository\HW11\Ex36\obj\Debug\net6.0\refint\Ex36.dll
+C:\Repository\HW11\Ex36\obj\Debug\net6.0\Ex36.pdb
+C:\Repository\HW11\Ex36\obj\Debug\net6.0\Ex36.genruntimeconfig.cache
+C:\Repository\HW11\Ex36\obj\Debug\net6.0\ref\Ex36.dll

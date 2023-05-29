@@ -1,0 +1,15 @@
+C:\Repository\HW11\Ex34\bin\Debug\net6.0\Ex34.exe
+C:\Repository\HW11\Ex34\bin\Debug\net6.0\Ex34.deps.json
+C:\Repository\HW11\Ex34\bin\Debug\net6.0\Ex34.runtimeconfig.json
+C:\Repository\HW11\Ex34\bin\Debug\net6.0\Ex34.dll
+C:\Repository\HW11\Ex34\bin\Debug\net6.0\Ex34.pdb
+C:\Repository\HW11\Ex34\obj\Debug\net6.0\Ex34.csproj.AssemblyReference.cache
+C:\Repository\HW11\Ex34\obj\Debug\net6.0\Ex34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\HW11\Ex34\obj\Debug\net6.0\Ex34.AssemblyInfoInputs.cache
+C:\Repository\HW11\Ex34\obj\Debug\net6.0\Ex34.AssemblyInfo.cs
+C:\Repository\HW11\Ex34\obj\Debug\net6.0\Ex34.csproj.CoreCompileInputs.cache
+C:\Repository\HW11\Ex34\obj\Debug\net6.0\Ex34.dll
+C:\Repository\HW11\Ex34\obj\Debug\net6.0\refint\Ex34.dll
+C:\Repository\HW11\Ex34\obj\Debug\net6.0\Ex34.pdb
+C:\Repository\HW11\Ex34\obj\Debug\net6.0\Ex34.genruntimeconfig.cache
+C:\Repository\HW11\Ex34\obj\Debug\net6.0\ref\Ex34.dll
